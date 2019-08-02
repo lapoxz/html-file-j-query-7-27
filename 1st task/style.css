@@ -1,0 +1,115 @@
+p {
+display: none; 
+}
+
+#box1 {
+ width: 200px;
+ height: 200px;
+ background-color: aqua;
+ display: none;
+}
+
+#box2 {
+    width: 200px;
+    height: 200px;
+    background-color:greenyellow;
+   }
+
+.bg-blue {
+    background-color:rgb(54, 209, 80);
+}
+
+
+
+
+
+
+
+.boxes{
+    height:400px;
+    width:250px;
+    background-color: rgb(158, 99, 11);
+    display: none;
+    margin-left: 15px;
+}
+div{
+   display: inline-block; 
+   height: 800 px;
+   border:2px;
+
+}
+
+.boxes:hover {
+    transform: scale(1.5);
+
+}
+#boxes1:hover{
+    background-image:url(images/101.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+}
+#boxes1{
+
+    background-image:url(images/101.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+}
+
+
+#boxes2:hover{
+    background-image:url(images/102.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+}
+#boxes2{
+    background-image:url(images/102.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+}
+
+
+
+#boxes3:hover{
+    background-image:url(images/103.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+}
+#boxes3{
+    background-image:url(images/103.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+}
+
+
+#boxes4:hover{
+    background-image:url(images/104.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+}
+#boxes4{
+    background-image:url(images/104.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+}
+
+
+#boxes5:hover{
+    background-image:url(images/105.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+}
+#boxes5{
+    background-image:url(images/105.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+}
